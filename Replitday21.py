@@ -16,3 +16,4 @@ for i in range(1, 11):
     print("congratulations. You made it.")
   else:
     print("Your score is ", counter, "out of 10 trials.")
+    
